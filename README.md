@@ -1,14 +1,16 @@
 # auto complete
 
-* This is a program that offers the searcher in the file tree,
-* K the "best" suggestions (predetermined score) to complete the search key according to the data in the files,
+This is a program that offers the searcher in a file tree,
+the k "best" suggestions (predetermined score) to complete the search key according to the data in the files,
 
 ## Description
+For each such proposal we will provide the following data: 
+* The source of the "path" of the original sentence,
+* The sentence itself
+* The location of the key in relation to the sentence,
+* The score determined in relation to its level of suitability.
 
-* For each such proposal we will provide the following data: the source of the "path" of the original sentence,
-* the sentence itself, the location of the key in relation to the sentence,
-* and the score determined in relation to its level of suitability.
-* The program supports the correction of one typo: Add, replace and skip a character - for which a reduced score will be given
+The program supports the correction of one typo: Add, replace and skip a character - for which a reduced score will be given
 
 ## Getting Started
 
