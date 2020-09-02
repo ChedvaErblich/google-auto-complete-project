@@ -33,10 +33,3 @@ path = 'your_path'
 * After viewing the completions the system allows the user to continue typing from where he stopped
 * If the user types "#" it means that the user has finished typing for this sentence and can enter a new search
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
